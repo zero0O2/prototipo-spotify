@@ -3,6 +3,7 @@ import { IoMdNotificationsOutline } from "react-icons/io";
 import { GoHome } from "react-icons/go";
 import { CiSearch } from "react-icons/ci";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
 
 
 const Aside = () => {
@@ -29,9 +30,11 @@ const Aside = () => {
     
 
     return(
-        <div class='w-full h-[66px] font-light flex items-center px-[25px]'>
-            <div class='flex w-full gap-x-[30px] items-center justify-between'>
-                <LogoIco />
+        <div class='w-full h-[66px] font-light fixed top-0 flex items-center px-[25px]'>
+            <div class='flex w-full pl-[5px] gap-x-[30px] items-center justify-between'>
+                <Link to="/">
+                    <LogoIco />
+                </Link>
 
                 <div class='flex gap-[30px] items-center justify-center'>
                     <div class="flex gap-[10px] ">

@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+:root{
+    --cor01: #151515;
+    --cor02: #5d16b487;
+    --cor03:rgba(177, 177, 177, 0.171);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
