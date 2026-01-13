@@ -1,0 +1,92 @@
+{
+    "musics":[
+        {
+            "id": 0,
+            "artists":"mf_dom",
+            "name": "Rapp Snitch Knishes",
+            "time": "2:52",
+            "album": "MM..FOOD",
+            "img": "https://i.scdn.co/image/ab67616d00001e0252f194d02c39909d1b284799"
+        },
+        {
+            "id": 1,
+            "artists":"mf_dom",
+            "name": "Doomsday",
+            "time": "4:58",
+            "album": "Operation: Doomsday",
+            "img": "https://i.scdn.co/image/ab67616d00001e026ce90ec627a0198a8efd127f"
+        },
+        {
+            "id": 2,
+            "artists":"mf_dom",
+            "name": "Hoe Cakes",
+            "time": "3:54",
+            "album": "MM..FOOD",
+            "img": "https://i.scdn.co/image/ab67616d00001e0252f194d02c39909d1b284799"
+        },
+        {
+            "id": 3,
+            "artists":"mf_dom",
+            "name": "One Beer",
+            "time": "4:18",
+            "album": "MM..FOOD",
+            "img": "https://i.scdn.co/image/ab67616d00001e0252f194d02c39909d1b284799"
+        },
+        {
+            "id": 4,
+            "artists":"mf_dom",
+            "name": "All Caps",
+            "time": "2:10",
+            "album": "Madvillainy",
+            "img": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47"
+        },
+        {
+            "id": 5,
+            "artists":"mf_dom",
+            "name": "November Has Come",
+            "time": "2:45",
+            "album": "Demon Days",
+            "img": "https://i.scdn.co/image/ab67616d00001e0219d85a472f328a6ed9b704cf"
+        },
+        {
+            "id": 6,
+            "artists":"mf_dom",
+            "name": "Rhymes Like Dimes",
+            "time": "4:18",
+            "album": "Operation: Doomsday",
+            "img": "https://i.scdn.co/image/ab67616d00001e026ce90ec627a0198a8efd127f"
+        },
+        {
+            "id": 7,
+            "artists":"mf_dom",
+            "name": "Meat Grinder",
+            "time": "2:11",
+            "album": "Madvillainy",
+            "img": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47"
+        },
+        {
+            "id": 8,
+            "artists":"mf_dom",
+            "name": "THAT'S THAT",
+            "time": "2:15",
+            "album": "Born Like This",
+            "img": "https://i.scdn.co/image/ab67616d00001e0273fcd3730311f6ec3a4326dd"
+        },
+        {
+            "id": 9,
+            "artists":"mf_dom",
+            "name": "Benzi Box",
+            "time": "3:00",
+            "album": "The Mouse and the Mask",
+            "img": "https://i.scdn.co/image/ab67616d00001e023277cf16b24ce7cb3622df8d"
+        },
+        {
+            "id": 1,
+            "artists":"beabadoobee",
+            "name": "the perfect pair",
+            "time": "2:57",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02384d10f967c2b914de7e2713"
+        }
+    ]
+}
