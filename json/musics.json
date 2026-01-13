@@ -81,12 +81,244 @@
             "img": "https://i.scdn.co/image/ab67616d00001e023277cf16b24ce7cb3622df8d"
         },
         {
-            "id": 1,
-            "artists":"beabadoobee",
+        "id": 0,
+            "artists": "beabadoobee",
             "name": "the perfect pair",
             "time": "2:57",
             "album": "",
             "img": "https://i.scdn.co/image/ab67616d00001e02384d10f967c2b914de7e2713"
+        },
+        {
+        "id": 1,
+            "artists": "beabadoobee",
+            "name": "death bed (coffee for your head)",
+            "time": "2:53",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02bf01fd0986a195d485922167"
+        },
+        {
+        "id": 2,
+            "artists": "beabadoobee",
+            "name": "Glue Song",
+            "time": "2:15",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02e3862aeefcb2f0860ef017e4"
+        },
+        {
+        "id": 3,
+            "artists": "beabadoobee",
+            "name": "Beaches",
+            "time": "3:50",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e027d9a2e7835a178df7b0153aa"
+        },
+        {
+        "id": 4,
+            "artists": "beabadoobee",
+            "name": "Real Man",
+            "time": "2:40",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e027d9a2e7835a178df7b0153aa"
+        },
+        {
+        "id": 5,
+            "artists": "beabadoobee",
+            "name": "Apple Cider",
+            "time": "2:58",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02ceca3ef39ab8f9b59acff394"
+        },
+        {
+        "id": 6,
+            "artists": "beabadoobee",
+            "name": "A Night To Remember",
+            "time": "3:53",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e0203ea1900840b8804f779f7b3"
+        },
+        {
+        "id": 7,
+            "artists": "beabadoobee",
+            "name": "the way things go",
+            "time": "3:07",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e029c835164f2d56dae7ee8a402"
+        },
+        {
+        "id": 8,
+            "artists": "beabadoobee",
+            "name": "Coffee",
+            "time": "2:06",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02ad2c1e1bcbc8d7415636691b"
+        },
+        {
+        "id": 9,
+            "artists": "beabadoobee",
+            "name": "Tired",
+            "time": "3:19",
+            "album": "",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fe11583497b2a332995b88ed"
+        },
+        {
+            "id": 1,
+            "artists": "racionais_mcs",
+            "name": "Vida Loka, Pt. 1",
+            "time": "5:03",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 2,
+            "artists": "racionais_mcs",
+            "name": "Vida Loka, Pt. 2",
+            "time": "5:50",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 3,
+            "artists": "racionais_mcs",
+            "name": "Negro Drama",
+            "time": "6:51",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 4,
+            "artists": "racionais_mcs",
+            "name": "Jesus Chorou",
+            "time": "7:51",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 5,
+            "artists": "racionais_mcs",
+            "name": "A Vida É Desafio",
+            "time": "7:13",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 6,
+            "artists": "racionais_mcs",
+            "name": "Estilo Cachorro",
+            "time": "6:17",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 7,
+            "artists": "racionais_mcs",
+            "name": "Capítulo 4, Versículo 3",
+            "time": "8:06",
+            "album": "Sobrevivendo no Inferno",
+            "img": "https://i.scdn.co/image/ab67616d00001e02dc04f429698834d0736ddb0a"
+        },
+        {
+            "id": 8,
+            "artists": "racionais_mcs",
+            "name": "Eu Sou 157",
+            "time": "8:49",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 9,
+            "artists": "racionais_mcs",
+            "name": "Da Ponte pra Cá",
+            "time": "8:47",
+            "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "img": "https://i.scdn.co/image/ab67616d00001e02497e68476e7062b1bf5ea83f"
+        },
+        {
+            "id": 10,
+            "artists": "racionais_mcs",
+            "name": "Diário de um Detento",
+            "time": "7:31",
+            "album": "Sobrevivendo no Inferno",
+            "img": "https://i.scdn.co/image/ab67616d00001e02dc04f429698834d0736ddb0a"
+        },
+        {
+            "id": 1,
+            "artists": "the_notoriousbig",
+            "name": "Hypnotize - 2014 Remaster",
+            "time": "3:49",
+            "album": "Life After Death (2014 Remastered Edition)",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30"
+        },
+        {
+            "id": 2,
+            "artists": "the_notoriousbig",
+            "name": "Big Poppa - 2005 Remaster",
+            "time": "4:12",
+            "album": "Ready to Die (2005 Remaster)",
+            "img": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830"
+        },
+        {
+            "id": 3,
+            "artists": "the_notoriousbig",
+            "name": "Juicy - 2005 Remaster",
+            "time": "5:02",
+            "album": "Ready to Die (2005 Remaster)",
+            "img": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830"
+        },
+        {
+            "id": 4,
+            "artists": "the_notoriousbig",
+            "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase)",
+            "time": "4:17",
+            "album": "Life After Death (2014 Remastered Edition)",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30"
+        },
+        {
+            "id": 5,
+            "artists": "the_notoriousbig",
+            "name": "Notorious Thugs - 2014 Remaster",
+            "time": "6:06",
+            "album": "Life After Death (2014 Remastered Edition)",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30"
+        },
+        {
+            "id": 6,
+            "artists": "the_notoriousbig",
+            "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm)",
+            "time": "4:46",
+            "album": "Duets: The Final Chapter",
+            "img": "https://i.scdn.co/image/ab67616d00001e022b508071c82859dd8fe98d81"
+        },
+        {
+            "id": 7,
+            "artists": "the_notoriousbig",
+            "name": "Party And Bullshit",
+            "time": "3:39",
+            "album": "Who Shot Ya? / Party And Bullshit",
+            "img": "https://i.scdn.co/image/ab67616d00001e02248667da8d589ce025f1ba56"
+        },
+        {
+            "id": 8,
+            "artists": "the_notoriousbig",
+            "name": "One More Chance / Stay With Me (Remix)",
+            "time": "4:28",
+            "album": "Greatest Hits",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fc0a9cfb0b4d224cda4db6fe"
+        },
+        {
+            "id": 9,
+            "artists": "the_notoriousbig",
+            "name": "Who Shot Ya? - 2005 Remaster",
+            "time": "5:19",
+            "album": "Ready to Die (2005 Remaster)",
+            "img": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830"
+        },
+        {
+            "id": 10,
+            "artists": "the_notoriousbig",
+            "name": "Get Money (feat. Junior M.A.F.I.A.)",
+            "time": "4:34",
+            "album": "Life After Death (2014 Remastered Edition)",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30"
         }
     ]
 }
