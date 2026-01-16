@@ -10,7 +10,7 @@
       "sobre":"Há 35 anos, Mano Brown, Kl Jay, Ice Blue e Edi Rock colocam em evidência a realidade do jovem preto e periférico no Brasil. A trajetória compartilhada entre o quarteto de maior impacto da música nacional atravessou barreiras além do rap, se tornando pilar de referência na cultura do país. De 1988 pra cá, a história foi contada por meio de rimas e versos que ecoam por gerações, com discos e EPs como Holocausto Urbano (1990), Escolha o seu Caminho (1992), Raio X Brasil (1993), Racionais MC’s (1994), Sobrevivendo no Inferno (1997), Nada Como Um Dia Após O Outro Dia (2002), 1000 trutas, 1000 tretas (2006) e Cores e Valores (2014). Não à toa, o recém-lançado documentário original Netflix “Racionais: das ruas de São Paulo para o Mundo”, que mostra o caminho percorrido pelos artistas por meio de letras de resistência e denúncia, ocupou a sexta posição do TOP 10 Global da plataforma ⎯ como filme em língua não inglesa. Ao longo de 2022, a turnê Racionais MC’s 33 World Tour atravessou cidades pelo Brasil, dominando palcos de importantes festivais nacionais como o CENA 2k22, Forró da Lua Cheia e Rock in Rio. E, no mesmo ano, ainda levaram a turnê para os Estados Unidos, passando por 5 estados ao longo de 13 dias: Nova York, Connecticut, Nova Jersey, Massachusetts e Flórida (Miami e Orlando). Agora, enquanto Mano Brown, Kl Jay, Ice Blue e Edi Rock preparam novos trabalhos em estúdio, o grupo visa ocupar novos palcos e espaços.",
       "banner": "https://i.pinimg.com/1200x/24/ce/83/24ce83a9a4d72233e1bdfa2520706891.jpg",
       "sobreImg": "https://i.scdn.co/image/c6cd30a75f11ffb9280e5e6ac04cbd8de82192a3",
-      "urlImg": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/1/a/1/81a118cac9567d9745e2e25488062683.jpg"
+      "urlImg": "https://i.pinimg.com/736x/89/a2/8d/89a28d517efe2671e07b8419d7311198.jpg"
       
     },
     {
@@ -48,6 +48,18 @@
       "banner": "https://i.pinimg.com/1200x/05/ba/08/05ba08a62cca5c1594f7c22f21e6eac1.jpg",
       "sobreImg": "https://i.scdn.co/image/ab6761670000ecd43c51f25b5d9c4999c119bb94",
       "urlImg": "https://i.scdn.co/image/ab6761610000101f6c8167ef48a872b6f190078f"
+    },
+    {
+      "id": 4,
+      "name": "KISS",
+      "slug": "kiss",
+      "genre": "Rock and Roll",
+      "musicPadrao": "./musicPadrao/kiss.mp3",
+      "ouvintesM": "17.415.186",
+      "sobre":"Rooted in the campy theatrics of  and the sleazy hard rock of glam rockers , Kiss became a favorite of American teenagers in the '70s. Most kids were infatuated with the look of Kiss, not their music. Decked out in outrageously flamboyant costumes and makeup, the band fashioned a captivating stage show featuring dry ice, smoke bombs, elaborate lighting, blood spitting, and fire breathing that captured the imaginations of thousands of kids. But Kiss' music shouldn't be dismissed -- it is a commercially potent mix of anthemic, fist-pounding hard rock driven by sleek hooks and ballads powered by loud guitars, earworm melodies, and sweeping strings. It's a sound that laid the groundwork for both arena rock and the pop-metal that dominated rock in the late '80s. In 1983 the band went unmasked, resulting in the platinum-selling LP of the same name, but re-applied the makeup ten years later. Since then, the Rock & Roll Hall of Famers have remained a potent live draw and have sold over 75 million records worldwide, with highlights arriving via influential efforts like Alive!, Destroyer, Rock and Roll Over, Love Gun, Dynasty, and Lick It Up.",
+      "banner": "https://i.pinimg.com/1200x/34/62/44/346244868487e8dd4d2dcf38b3cbd86a.jpg",
+      "sobreImg": "https://i.scdn.co/image/384b3ae89e30a11561b18aa8908026c2483660b8",
+      "urlImg": "https://i.pinimg.com/736x/72/30/08/72300827208af7af11dd312a9bb728fc.jpg"
     }
   ]
 }

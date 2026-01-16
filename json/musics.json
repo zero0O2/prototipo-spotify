@@ -319,6 +319,86 @@
             "time": "4:34",
             "album": "Life After Death (2014 Remastered Edition)",
             "img": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30"
+        },
+        {
+            "id": 1,
+            "artists": "kiss",
+            "name": "I Was Made For Lovin' You",
+            "time": "4:31",
+            "album": "Dynasty",
+            "img": "https://i.scdn.co/image/ab67616d00001e024384b6976cadaec272114022"
+        },
+        {
+            "id": 2,
+            "artists": "kiss",
+            "name": "Rock And Roll All Nite - 2025 Remaster",
+            "time": "2:47",
+            "album": "Dressed to Kill",
+            "img": "https://i.scdn.co/image/ab67616d00001e0283c7a3d87674e9b7ecaaa1f5"
+        },
+        {
+            "id": 3,
+            "artists": "kiss",
+            "name": "Detroit Rock City",
+            "time": "3:35",
+            "album": "Destroyer",
+            "img": "https://i.scdn.co/image/ab67616d00001e02fae1cf41bcca7a53b6003d7c"
+        },
+        {
+            "id": 4,
+            "artists": "kiss",
+            "name": "Heaven's On Fire",
+            "time": "3:21",
+            "album": "Animalize",
+            "img": "https://i.scdn.co/image/ab67616d00001e025796a96e792ccf729da94e85"
+        },
+        {
+            "id": 5,
+            "artists": "kiss",
+            "name": "Lick It Up",
+            "time": "3:56",
+            "album": "Lick It Up",
+            "img": "https://i.scdn.co/image/ab67616d00001e02e5089214df66e4c6324861f7"
+        },
+        {
+            "id": 6,
+            "artists": "kiss",
+            "name": "Love Gun",
+            "time": "3:18",
+            "album": "Love Gun",
+            "img": "https://i.scdn.co/image/ab67616d00001e024c03f567f05a884f4382392a"
+        },
+        {
+            "id": 7,
+            "artists": "kiss",
+            "name": "Forever",
+            "time": "3:52",
+            "album": "Hot in the Shade",
+            "img": "https://i.scdn.co/image/ab67616d00001e02f540af172086f9535fb9f600"
+        },
+        {
+            "id": 8,
+            "artists": "kiss",
+            "name": "Strutter",
+            "time": "3:10",
+            "album": "Kiss",
+            "img": "https://i.scdn.co/image/ab67616d00001e025621f132b6d5ce5254b5aa2a"
+        },
+        {
+            "id": 9,
+            "artists": "kiss",
+            "name": "Crazy Crazy Nights",
+            "time": "3:47",
+            "album": "Crazy Nights",
+            "img": "https://i.scdn.co/image/ab67616d00001e028c2105ce9c02ccb83f7a9cb8"
+        },
+        {
+            "id": 10,
+            "artists": "kiss",
+            "name": "I Was Made For Lovin' You - Single Mix",
+            "time": "4:01",
+            "album": "Dynasty",
+            "img": "https://i.scdn.co/image/ab67616d00001e02bdc7b613fabe67e7935c250b"
         }
     ]
 }
